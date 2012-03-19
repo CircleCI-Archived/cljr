@@ -1,6 +1,6 @@
 = WARNING
 
-This library was factored out of [https://circleci.com CircleCI] after we decided to abandon JRuby + Clojure running in the same process. For some of the rationale of why we're not using this anymore, see []
+This library was factored out of [https://circleci.com CircleCI] after we decided to abandon JRuby + Clojure running in the same process. For some of the rationale of why we're not using this anymore, see [https://github.com/arohner/clojurewest2012-slides/blob/master/Rohner-JRuby.pdf?raw=true]
 
 This code is not production ready, it may do unspeakable things to your code. Use it for example purposes only.
 
